@@ -1,1 +1,1 @@
-# mqdemo
+this is sample demonestration on how activemq works. we have a class called producer which send messages to the consumer. consumer, then consumes message that we sent to it. activemq is used as a broker between two models producer and consumer. 
